@@ -1,2 +1,2 @@
 # opendata-atm-proxy-service
-This repository uses the open-api for Lloyds ATMs 
+This Microservice uses openbanking API for retreiving Lloyds bank ATMs. 
